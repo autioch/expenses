@@ -1,3 +1,2 @@
 require('app-module-path').addPath('.');
-
-require('backend');
+require('database');
